@@ -1,7 +1,2 @@
 alterando o projeto
-a
-b
-c
-d
-e
-f
+criar tags
